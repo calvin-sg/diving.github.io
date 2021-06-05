@@ -22,7 +22,7 @@ p {
     color: white;
     font-size: 14px;
 }
-a:link {
+.text a:link {
     color: #1ABDCE;
     text-decoration: none;
 }

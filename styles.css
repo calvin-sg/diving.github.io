@@ -45,6 +45,10 @@ p {
 .social-icon-bar a:hover {
     background-color: #000;
 }
+.battleship {
+    background: #000080;
+    color: white;
+}
 .slickshots {
     background: #c14f4d;
     color: white;
